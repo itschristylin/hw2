@@ -11,8 +11,8 @@ html {
 }
 
 body {
-	font-family: Tahoma, sans-serif;
-	font-size: 87%;
+	font-family: Didot, sans-serif;
+	font-size: 100%;
 }
 
 .container {
@@ -28,13 +28,13 @@ body {
 .header {
 	padding-top: 20px;
 	/* padding-bottom: 20px; */
-	color: #617140;
+	color: #B9887D;
 }
 
 .header-title {
 	margin: 0;
 	font-weight: normal;
-	font-size: 165%;
+	font-size: 200%;
 }
 
 .header-slogan {
@@ -53,8 +53,8 @@ body {
 }
 
 .nav-sublist {
-	position: absolute;
-	background-color: #e5e9dc;
+	position: relative;
+	background-color: #B9887D;
 	margin: 0;
 	padding: 0;
 	display: none;
@@ -67,7 +67,7 @@ body {
 
 .nav-list-item-link {
 	display: block;
-	color: #617140;
+	color: #B9887D;
 	text-decoration: none;
 	padding: 10px 20px;
 	border: 3px solid #e5e9dc;
@@ -79,7 +79,7 @@ body {
 }
 
 .nav-list-item:hover > .nav-list-item-link {
-	background-color: #e5e9dc;
+	background-color: #D7C4BB;
 }
 
 
