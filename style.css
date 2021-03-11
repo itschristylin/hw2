@@ -1,0 +1,31 @@
+h1 {
+  color:navy;
+  font-weight: lighter;
+}
+p {
+  color:darkblue;
+}
+
+h2{
+	color:orange;
+}
+
+.article-body {
+  background-color: lightgray;
+}
+
+#footer-p {
+  color: darkgray;
+}
+
+header p {
+  color: gray;
+}
+
+article .article-body p {
+color: red; }
+
+article div p {
+color: blue; }
+
+
